@@ -1,2 +1,2 @@
-# Ensemble
+# Ensemble - techniques.
 The project deals with a machine learning model that classifies customers of a bank who are most likely to subscribe to a term deposit. The project includes EDA, data cleaning, data mining and transformations for pre-processing of the data. The project also involved ensemble techniques such as bagging and boosting to boost a model's performances. All the model results and improvisations are intuitively represented using graphs and plots. The project concludes with a summary and recommended suggestions to the bank to increase their conversion ratio of customers taking the term deposit. 
